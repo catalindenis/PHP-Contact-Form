@@ -1,16 +1,15 @@
 🌐 PHP Website Project
 
 A dynamic web application developed using PHP and MySQL, running on a local server environment powered by XAMPP.
-The project was created to demonstrate backend development concepts, database integration, and interactive web functionalities.
+The project was created at university courses.
 
 🚀 Features
 
-✅ Dynamic web pages
+✅ Dynamic web page
 ✅ MySQL database integration
 ✅ User authentication system
 ✅ Forms and data processing
 ✅ Responsive and interactive interface
-✅ Organized project structure
 
 🛠️ Technologies Used
 🐘 PHP
